@@ -21,8 +21,8 @@ MoneyRush : https://play.google.com/store/apps/details?id=com.wixot.coinroll&hl=
 
 ## Screenshot
 
-![screenshot1](https://github.com/leedonglee/MoneyRush/assets/80702114/e5630cd0-2ad9-4060-ba1d-7a34e3562735)
-![screenshot2](https://github.com/leedonglee/MoneyRush/assets/80702114/2845df4f-3234-411f-a676-4b87683c3403)
+![screenshot1](https://github.com/leedonglee/MoneyRush/assets/80702114/15fa8cb2-b0ae-438a-a856-ac286b929d86)
+![screenshot2](https://github.com/leedonglee/MoneyRush/assets/80702114/3a51a322-632b-476a-b7be-25317051b170)
 
 ## Info
 
